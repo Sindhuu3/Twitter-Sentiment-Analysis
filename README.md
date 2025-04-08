@@ -20,9 +20,8 @@ The performance of these classifiers is then evaluated using:
 - **Accuracy**
 - **ROC-AUC Curve**
 - **F1 Scores**
-## DataSet Used  <a href="https://www.kaggle.com/datasets/kazanova/sentiment140?resource=download">Click Here</a>
+## DataSet Used : <a href="https://www.kaggle.com/datasets/kazanova/sentiment140?resource=download">Click Here</a>
 
-- **DataSet Used**:<a href="https://www.kaggle.com/datasets/kazanova/sentiment140?resource=download">Click Here</a>
 
 ## 📚 Project Pipeline
 
